@@ -1,24 +1,4 @@
-# frontend
+Building Vue and Node Apps with Authentication (Lynda Course)
 
-## Project setup
-```
-npm install
-```
+#### This folder containes Frontend files for Vue and Node application which allows users to Register, Login and write Messages - also view previously written Messages by other users. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
